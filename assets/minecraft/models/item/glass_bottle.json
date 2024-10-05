@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/glass_bottle"},"overrides":[{"predicate":{"custom_model_data":10110},"model":"reallyworld:item/potion"}]}
