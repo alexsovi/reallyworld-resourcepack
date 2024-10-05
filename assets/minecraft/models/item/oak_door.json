@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/oak_door"},"overrides":[{"predicate":{"custom_model_data":10004},"model":"reallyworld:item/home"}]}
